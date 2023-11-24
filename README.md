@@ -20,3 +20,14 @@
   - Car_Brand_Logos/new_images: Que tiene 2 imagenes para verificar las predicciones
   - Y en el siguiente link se encuentra para descargar el dataset que se utilizo Y LOS MODELOS YA CARGADOS.
     NOTA: ESTO SE HIZO DEBIDO A QUE GITHUB NO DEJA SUBIR ARCHIVOS MAYORES A 25 MB.
+
+    https://drive.google.com/drive/folders/19np-kqHI96cffRz1XWsWQK-e4xmu2pPR?usp=sharing
+
+
+A) Utiliza un framework para entrenar un modelo de aprendizaje profundo 
+
+B) Evalúa el desempeño del modelo en su aproximación inicial y realiza ajustes para mejorar su desempeño  
+
+C) Utiliza un conjunto de datos reales (no ejemplos de clase), para la creación del modelo.
+
+D) El modelo puede generar predicciones o recomendaciones a través de la consola o una interfaz
