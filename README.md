@@ -17,7 +17,7 @@
 ## En este repositorio se encuentra los siguientes documentos:
 
   - ClassificationCodeCars.ipynb: En este se encuentra el codigo de implementacion
-  - Car_Brand_Logos/new_images: Que tiene 2 imagenes para verificar las predicciones
+  - Car_Brand_Logos/new_images: Que tiene varias imagenes para verificar las predicciones
   - Y en el siguiente link se encuentra para descargar el dataset que se utilizo Y LOS MODELOS YA CARGADOS.
     NOTA: ESTO SE HIZO DEBIDO A QUE GITHUB NO DEJA SUBIR ARCHIVOS MAYORES A 25 MB.
 
